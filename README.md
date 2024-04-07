@@ -1,3 +1,10 @@
 # Weather-App
-Simple Weather App using JavaScript
-<img src="WeatherApp.gif">
+<img src="img.png">
+<hr>
+
+## ⚙️*Tech used*
+
+### HTML5
+### CSS3
+### JS
+### weather *API*
